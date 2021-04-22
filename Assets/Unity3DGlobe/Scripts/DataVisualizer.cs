@@ -38,6 +38,7 @@ public class DataVisualizer : MonoBehaviour {
     {
         WWW www = new WWW(URL);
         yield return www;
+        Debug.Log(www.error);
 
         // Extract token from parsed response
         var text = www.text.Replace(":null", ":\"\"");

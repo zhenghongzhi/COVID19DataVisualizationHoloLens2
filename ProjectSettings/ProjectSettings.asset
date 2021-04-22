@@ -581,7 +581,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: COVIDDataVizGit
   metroPackageVersion: 
-  metroCertificatePath: D:\Work\2021\04-TongjiVisit\COVID19DataVisualizationHoloLens2\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
